@@ -18,6 +18,6 @@ The detection of old and new leaves by masking and making a rectangle around the
 
 ## output4 
 <p align="center">
-  <img src='output2_3.jpg'/>
+  <img src='output2_3.png'/>
 </p>
 
